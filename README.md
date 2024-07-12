@@ -1,2 +1,2 @@
-# PRODIGY_DS_01
+# PRODIGY_DS_02
 Population Analysis
